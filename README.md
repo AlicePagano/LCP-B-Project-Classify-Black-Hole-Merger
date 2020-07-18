@@ -32,4 +32,4 @@ Moreover, we compute the fraction of CE systems as a function of fMT.
 
 
 #### Report
-This folder contains the final report with its Latex Source.
+This folder contains the final report (pdf) with its Latex Source.
