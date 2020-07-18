@@ -1,4 +1,4 @@
-# LCP-Project-Classify-Black-Hole-Mergers
+# LCP Project: Classify Black Hole Merger
 
 **Title**: Analyze Large Data Sets of Simulated Binary Star Evolution to Classify Black Hole Merger.
 
@@ -9,7 +9,7 @@
 Recently, Ligo and Virgo detections has proved the existence of Binary Black Holes systems. Therefore, it is fundamental to investigate what are the formation channels of these compact objects binaries. Several physical processes, such as mass transfer and Common Envelope, and stars composition parameters, such as metallicity, can affect the formation of Binary Black Hole systems.
 In order to highlight relevant trends and correlations in Binary Black Holes formation, we analyze data simulated with the population synthesis code MOBSE focusing on the parameters of our interest.  
 
-### Folder Organization
+## Folder Organization
 
 #### Code
 
