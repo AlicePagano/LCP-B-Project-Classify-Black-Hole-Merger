@@ -2,6 +2,8 @@
 
 **Title**: Analyze Large Data Sets of Simulated Binary Star Evolution to Classify Black Hole Merger.
 
+**Authors**: Alessandro Lambertini, Michele Guadagnini, Alice Pagano and Michele Puppin
+
 ### Abstract
 
 Recently, Ligo and Virgo detections has proved the existence of Binary Black Holes systems. Therefore, it is fundamental to investigate what are the formation channels of these compact objects binaries. Several physical processes, such as mass transfer and Common Envelope, and stars composition parameters, such as metallicity, can affect the formation of Binary Black Hole systems.
@@ -18,7 +20,7 @@ In particular, we calculate and plot distribution of masses, mass ratios and mer
 We calculate and plot distribution of initial and final masses for different metallicities, different fMT and for systems which enter or not in Common Envelope.
 Moreover, we compute the fraction of CE systems as a function of fMT.
 
-* **02_1_evol-merger**. We read the file “evol_mergers.out” and classify again systems between systems those that go through Common Envelope and those that do not. We plot the distribution of merging time, mass ratios and semi-major axis as a function of metallicity and fMT. Moreover, we make a scatter plot of $m_1$ vs $m_2$ for initial and final masses.
+* **02_1_evol-merger**. We read the file “evol_mergers.out” and classify again systems between systems those that go through Common Envelope and those that do not. We plot the distribution of merging time, mass ratios and semi-major axis as a function of metallicity and fMT. Moreover, we make a scatter plot of m1 vs m2 for initial and final masses.
 
 #### Plots
 
