@@ -1,4 +1,6 @@
-# LCP Project: Classify Black Hole Merger
+# Laboratory of Computational Physics - Part B
+
+## Classify Black Hole Merger
 
 **Title**: Analyze Large Data Sets of Simulated Binary Star Evolution to Classify Black Hole Merger.
 
